@@ -1,1 +1,1 @@
-(10)write a code that sets the mode of the file hello the same as ollehs mode
+(10)write a script that sets the mode of the file hello the same as olleh mode
